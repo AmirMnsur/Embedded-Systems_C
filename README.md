@@ -1,2 +1,2 @@
-# Embedded-C
-Repository for Telegram CH Mastering for MCU STM32
+# Embedded_Systems_C
+C Target Embedded Systems [Archive Cod & App]
